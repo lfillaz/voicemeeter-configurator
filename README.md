@@ -33,5 +33,3 @@ cd voicemeeter-configurator
 ```
 Developed by [lfillaz](https://github.com/lfillaz)
 ``` 
-
-هذا README يسلط الضوء على ميزات المشروع ويشمل أوامر أساسية لتثبيت المكتبة وتشغيل الواجهة.
