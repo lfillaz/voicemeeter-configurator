@@ -3,7 +3,7 @@ This tool is ideal for audio engineers, content creators, and Voicemeeter Banana
 
 ![image](https://github.com/user-attachments/assets/b1979827-705b-4342-a15f-17e63687ab8b)
 
-```markdown
+
 # Voicemeeter Configurator GUI
 
 A comprehensive GUI tool for generating **Voicemeeter Banana** configuration files in XML format, designed for advanced audio control and customization. This tool leverages Python's **customtkinter** library, providing an intuitive, dark-themed interface that mimics the Voicemeeter Banana aesthetic. Users can adjust Noise Gate, Compressor, Equalizer, and High-Pass Filter settings with precision controls and generate a configuration file effortlessly.
