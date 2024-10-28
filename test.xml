@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<VoicemeeterConfig>
+  <HardwareOut>
+    <A1>Speakers</A1>
+  </HardwareOut>
+  <MicSettings>
+    <NoiseGate threshold="36.0" attack="1.6999999999999993" release="180.0"/>
+    <Compressor ratio="3:1" threshold="3.1999999999999993" attack="4.5" release="170.0"/>
+    <Equalizer>
+      <Low gain="-0.40000000000000036"/>
+      <Mid gain="-4.4"/>
+      <High gain="-1.0"/>
+      <HighPassFilter cutoff_frequency="121.0" slope="12dB"/>
+    </Equalizer>
+  </MicSettings>
+  <Buffering latency="128"/>
+</VoicemeeterConfig>
