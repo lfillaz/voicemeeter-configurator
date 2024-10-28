@@ -1,6 +1,6 @@
 # voicemeeter-configurator
 This tool is ideal for audio engineers, content creators, and Voicemeeter Banana users who seek granular control over audio processing. The configuration XML can be easily integrated into Voicemeeter setups for enhanced audio performance.
-إليك نموذجًا لملف README.md، يحتوي على وصف بسيط لتحسين محركات البحث (SEO) وتوضيح أساسي لمشروعك:
+
 ![image](https://github.com/user-attachments/assets/b1979827-705b-4342-a15f-17e63687ab8b)
 
 ```markdown
